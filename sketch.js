@@ -6,9 +6,8 @@ let particles = [];
 let colorPalette = [];
 
 function preload() {
-    song = loadSound('assets/Legendary.mp3');
+    //song = loadSound('assets/Legendary.mp3');
     song = loadSound('assets/Good-Kid_From-The-Start.mp3');
-    song = null;
 }
 
 function setup() {
